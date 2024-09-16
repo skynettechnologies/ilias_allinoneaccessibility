@@ -13,7 +13,6 @@ class ilAllinoneaccessibilityPlugin extends ilUserInterfaceHookPlugin
     const SLOT_ID = "uihk";
     protected static $instance = null;
 
-
     public function __construct(
         \ilDBInterface $db,
         \ilComponentRepositoryWrite $component_repository,
@@ -51,5 +50,4 @@ class ilAllinoneaccessibilityPlugin extends ilUserInterfaceHookPlugin
     {
         return self::PLUGIN_NAME;
     }
-
 }
