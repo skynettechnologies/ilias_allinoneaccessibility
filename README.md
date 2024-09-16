@@ -46,12 +46,12 @@ git clone https://github.com/skynettechnologies/ilias_allinoneaccessibility.git 
 ## Configuration
 Go to Administration > Extending ILIAS > Plugins and select “Install” from the Allinoneaccessibility plugin actions menu.
 
-![image](/Allinoneaccessibility/images/screenshot4.png)
+![image](/images/screenshot4.png)
 
 Then, from the same menu, select “Activate”.
 And finally, still from the same menu, “Configure”.
 
-![image](/Allinoneaccessibility/images/screenshot5.png)
+![image](/images/screenshot5.png)
 
 ## Screenshots
 
